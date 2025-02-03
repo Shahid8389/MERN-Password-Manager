@@ -23,10 +23,10 @@ A user-friendly password manager built using the **MERN (MongoDB, Express, React
 ### **1️⃣ Clone the Repository**
 ```bash
 # Clone the repository
-git clone https://github.com/Shahid8389/mern-password-manager.git
+git clone https://github.com/Shahid8389/MERN-Password-Manager.git
 
 # Navigate to the project location
-cd mern-password-manager
+cd MERN-Password-Manager
 ```
 
 ### 2️⃣ Install Dependencies
